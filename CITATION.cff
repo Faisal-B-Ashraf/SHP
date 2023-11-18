@@ -1,0 +1,10 @@
+@misc{huuki_2023_10155706,
+  author       = {Huuki, Hannu},
+  title        = {SHP: Initial release},
+  month        = nov,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {0.1.0},
+  doi          = {10.5281/zenodo.10155706},
+  url          = {https://doi.org/10.5281/zenodo.10155706}
+}
